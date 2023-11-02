@@ -1,0 +1,32 @@
+Circuit: * G:\Meu Drive\_GÁS INFINITO\ENGENHARIA ELÉTRICA\Eletrônica de Potência\lab\EXPERIMENTOS\EXP07_2.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.0167 ++++++++to 0.0167
+Heightened Def Con from 0.0167 to 0.0167
+Heightened Def Con from 0.0417 +to 0.0417
+Heightened Def Con from 0.0417 to 0.0417
+Heightened Def Con from 0.0667 to 0.0667
+Heightened Def Con from 0.0667 +to 0.0667
+Heightened Def Con from 0.0667 to 0.0667
+Heightened Def Con from 0.0917 ++++++++to 0.0917
+Heightened Def Con from 0.0917 +++to 0.0917
+Heightened Def Con from 0.0917 ++++++to 0.0917
+Heightened Def Con from 0.0917 to 0.0917
+
+Date: Fri Aug 12 09:22:57 2022
+Total elapsed time: 9.621 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1694558
+traniter = 1694548
+tranpoints = 431087
+accept = 312412
+rejected = 118713
+matrix size = 49
+fillins = 24
+solver = Normal
+Matrix Compiler1: 3.60 KB object code size  0.6/0.3/[0.2]
+Matrix Compiler2: 4.35 KB object code size  0.2/0.3/[0.2]
+
